@@ -1,2 +1,2 @@
-# MailEx-Internal-
+# MailEx (Internal)
 C#
