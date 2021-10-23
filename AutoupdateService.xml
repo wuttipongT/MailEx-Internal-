@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+    <version>1.0.0.2</version>
+    <url>ftp://ITMAINTAIN:123456@172.20.10.105/AutoUpdaterTest.zip</url>
+    <changelog>ftp://ITMAINTAIN:123456@172.20.10.105/releases</changelog>
+    <mandatory>false</mandatory>
+</item>
+
+
