@@ -1,2 +1,3 @@
 # MailEx (Internal)
-C#
+This thing is how to mail internal company. 
+driver by C#
